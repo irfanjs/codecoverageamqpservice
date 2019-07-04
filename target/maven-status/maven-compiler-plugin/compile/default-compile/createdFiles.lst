@@ -1,2 +1,3 @@
 com\infy\ci\codecoverageamqpservice\CodeCovAmqpRestController.class
 com\infy\ci\codecoverageamqpservice\CodecoverageamqpserviceApplication.class
+com\infy\ci\codecoverageamqpservice\RabbitConfig.class
